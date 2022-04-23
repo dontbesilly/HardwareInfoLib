@@ -1,3 +1,3 @@
-# Получение данных по железу компьютера в формате JSON
+# Hardware Info
 
-Выводит в консоль данные по железу.
+SMBIOS standards [DMTF](https://www.dmtf.org/standards/smbios)
